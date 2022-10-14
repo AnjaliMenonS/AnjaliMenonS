@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+anjalismenon1818@gmail.com
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anjali-s-menon-55299a160/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjfuwtp%2bnsvomjxaqdzsxag%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anjali-s-menon-55299a160/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjfuwtp%2bnsvomjxaqdzsxag%3d%3d" height="30" width="40" /></a>
  <a href="https://www.facebook.com/AnjaliSMenon22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjali s menon" height="30" width="40" /></a>
 </p>
